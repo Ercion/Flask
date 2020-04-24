@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sun Apr 24 13:25:08 2020
+Created on Fri Apr 24 13:25:08 2020
 @author: Ercan Karaçelik
 """
 
