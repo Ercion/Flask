@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+
+"""
+Created on Sa Apr 25 16:25:08 2020
+@author: Ercan Karaçelik
+"""
+
+
 from flask import Flask,jsonify,request
 from flask_pymongo import PyMongo
 from bson.objectid import ObjectId
