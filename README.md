@@ -7,7 +7,8 @@ This repository contains useful flask examples
 
 <b>RESOURCES</b>
 
-
+</n>
+</n>
 https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/
 
 https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
