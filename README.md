@@ -30,3 +30,11 @@ https://medium.com/@schezfaz/building-an-api-using-flask-and-mongodb-bucket-list
 https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/
 
 https://www.baeldung.com/curl-rest
+
+
+
+<br>
+
+<b>Test a REST API with POSTMAN</b>
+<br>
+https://www.guru99.com/postman-tutorial.html
